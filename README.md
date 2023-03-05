@@ -1,7 +1,10 @@
 ### UIU-CP-COMMUNITY Blog Repository
+---
+
 Welcome to the official blog repository of UIU Competitive Programming Community. This repository is created to provide a platform for the community members to share their knowledge and experience in competitive programming.
 
 ### Contributing to the Repository
+---
 We encourage all the members of UIU-CP-COMMUNITY to contribute to the blog repository by writing blog posts on different categories related to competitive programming. Here are the steps to contribute to the repository:
 
 * Fork this repository to your own GitHub account by clicking the "Fork" button at the top right corner of this page.
@@ -39,6 +42,7 @@ We encourage all the members of UIU-CP-COMMUNITY to contribute to the blog repos
 * Once your PR is approved, your blog post will be merged into the main repository and published.
 
 ### Categories
+---
 We welcome blog posts on different categories related to competitive programming, including but not limited to:
 
 * Algorithms
