@@ -20,8 +20,10 @@ We encourage all the members of UIU-CP-COMMUNITY to contribute to the blog repos
 * Create a new directory with your GitHub username inside the "posts" directory. For example, if your GitHub username is "johndoe", then create a directory named "johndoe".
 
 * Create a new markdown (.md) file inside your directory with your blog post.
-> You can use [Word TO Markdown](https://products.aspose.app/words/conversion/word-to-md) to convert ms word files to .md
-> You can use [dillinger](https://dillinger.io/) to view/edit the .md file [*** Recommended]
+```sh
+   *** You can use [Word TO Markdown](https://products.aspose.app/words/conversion/word-to-md) to convert ms word files to .md
+   *** You can use [dillinger](https://dillinger.io/) to view/edit the .md file [*** Recommended]
+```
 
 * The file name should be descriptive of the content of your post. 
 
