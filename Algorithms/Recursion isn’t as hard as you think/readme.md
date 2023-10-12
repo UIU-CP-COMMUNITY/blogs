@@ -5,13 +5,13 @@
 
 ![CoverPhoto](https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/Cover.png?raw=true)
 
+ <img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/spider-man-pointing.jpg" alt="gras" />
 Recursion is a very used and powerful **functional programming**
 concept. What is recursion? It's a technique in programming **where a
 function calls itself,** like in front of a mirror you are calling your
 mirror view by your name. It is also called a **recursive function**.
 Why? When a function that calls itself is a recursive function.
 
- <img align="right" width="50%" height="50%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/spider-man-pointing.jpg" alt="gras" />
 
 
 
