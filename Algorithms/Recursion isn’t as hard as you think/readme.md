@@ -3,6 +3,7 @@
 - [United International University](https://www.uiu.ac.bd/)
 - Sid : 011221437
 
+![CoverPhoto](https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/Cover.png?raw=true)
 
 Recursion is a very used and powerful **functional programming**
 concept. What is recursion? It's a technique in programming **where a
@@ -10,8 +11,10 @@ function calls itself,** like in front of a mirror you are calling your
 mirror view by your name. It is also called a **recursive function**.
 Why? When a function that calls itself is a recursive function.
 
+<p>An image: <img src="[img/image.jpg" alt="gras](https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/spider-man-pointing.jpg?raw=true)" /></p>
 
-### How do we call a function in C programming? {#78d7cce4-f9a6-4ff8-b8d8-1b49f1d26465}
+
+### How do we call a function in C programming?
 
 ``` {#37243b9a-b511-4341-8e31-7511fc90eeb6 .code}
 #include <stdio.h>
