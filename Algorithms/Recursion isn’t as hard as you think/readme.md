@@ -1,17 +1,16 @@
 # Recursion isn't as hard as you think
-- Author : [Tashin Parvez](https://github.com/TashinParvez) 
+- Author: [Tashin Parvez](https://github.com/TashinParvez) 
 - [United International University](https://www.uiu.ac.bd/)
-- Sid : 011221437
+- Sid: 011221437
+
 
 ![CoverPhoto](https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/Cover.png?raw=true)
 
  <img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/spider-man-pointing.jpg" alt="gras" />
-Recursion is a very used and powerful **functional programming**
-concept. What is recursion? It's a technique in programming **where a
-function calls itself,** like in front of a mirror you are calling your
-mirror view by your name. It is also called a **recursive function**.
+Recursion is a very used and powerful <b>functional programming</b>
+concept. What is <b>recursion</b>? It's a technique in programming <b>where a function calls itself,</b> like in front of a mirror you are calling your
+mirror view by your name. It is also called a <b>recursive function</b>.
 Why? When a function that calls itself is a recursive function.
-
 
 
 
@@ -44,7 +43,7 @@ itself?**
 
 No.
 
-### What does calling itself in a function look like? {#12dc99b4-5378-4225-9a8f-8100f85286e0}
+### What does calling itself in a function look like?
 
 ``` {#af2a1cc2-83d3-4907-86d7-396eb428a1cf .code}
 void greet() {
@@ -71,8 +70,7 @@ The answer is No. Why?
 Because It has the **base case** which [terminates the recursion
 function]{.mark .highlight-yellow}.
 
-### [Now the question is what is ]{.mark .highlight-default}[**base case**]{.mark .highlight-default}[?]{.mark .highlight-default} {#e200b01a-5235-4a6c-a815-6c14b9a636e6}
-
+### [Now the question is what is ]
 The \"**[base case]{.mark .highlight-yellow}**\" in recursion is like
 the red-light signal on the road and you have to stop your car now. So
 basically, it tells you when to stop. let\'s clear it up with an
