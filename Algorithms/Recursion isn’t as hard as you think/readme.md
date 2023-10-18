@@ -149,6 +149,8 @@ We are not done yet. Let's say you send your problems to your friends
 using email. then obviously your friend also sends you the solution by
 using email. Imagine this.
 
+<img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/Backtracking.png" alt="Pasing Problems" />
+
 The 10th person solves the last problem and sends it to the 9th person.
 
 9th person sends the last 2 solutions to the 8th person [9th person solve one and get one solve from the 10th person]<br/>
@@ -180,7 +182,7 @@ To get 3 factorials we need 2 factorials.   &nbsp;&nbsp;&nbsp;&nbsp;[ He doesn't
 
 To get 2 factorials we need 1 factorial.     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ He doesn\'t know the value of 1 factorial, so he gives it to his friend ]
 
-1 factorial is 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;[ He sends the solution of 1 factorial ]
+1 factorial is 1 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;[ He sends the solution of 1 factorial ]
 
 ```
 factorial(5) = 5 * factorial(4)
