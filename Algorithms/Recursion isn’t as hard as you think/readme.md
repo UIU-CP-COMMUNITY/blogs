@@ -54,8 +54,10 @@ void greet() {
 See, in this Greet function calling itself by using " greet(); " this
 line.
 
-**Do you know what will happen if this greet function is called from the
-main function?**
+
+<br/>
+Do you know what will happen if this greet function is called from the
+main function?
 
 Yes, it will continuously print Hello World and it will not stop, and in
 the end, our program will crash.
