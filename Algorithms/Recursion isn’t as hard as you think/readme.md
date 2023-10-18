@@ -56,57 +56,41 @@ line.
 
 
 <br/>
-Do you know what will happen if this greet function is called from the
-main function?
+<b><u>Do you know what will happen if this greet function is called from the main function?</u></b>
+<br/>
+Yes, it will continuously print Hello World and it will not stop, and in the end, our program will crash.
 
-Yes, it will continuously print Hello World and it will not stop, and in
-the end, our program will crash.
+So, now we know that recursion is a recursive function because it calls itself. Does the recursive function always crash the program, like the 'greet' function above?
 
-So, now we know that recursion is a recursive function because it calls itself. Does the recursive function always crash the program, like the 'greet' function above?**
+The answer is **No**. Why?
 
-The answer is No. Why?
+Because It has the **base case** which terminates the recursion function.
 
-Because It has the **base case** which [terminates the recursion
-function]{.mark .highlight-yellow}.
 
-### [Now the question is what is ]
-The \"**[base case]{.mark .highlight-yellow}**\" in recursion is like
-the red-light signal on the road and you have to stop your car now. So
-basically, it tells you when to stop. let\'s clear it up with an
-**example**.
+### Now the question is what is the **base case?**
+
+The "base case" in recursion is like the red-light signal on the road and you have to stop your car now. So basically, it tells you when to stop. let's clear it up with an example.
 
 If I told you to calculate 4 factorials. What will you do?
 
 You will calculate 4 into 3 into 2 into 1. then you will stop. why do
 you stop? Because you know that while calculating the factorial of a
 number you need to calculate the multiplication of all numbers between 1
-and the given
-
-::: {#5a996385-2087-4b42-b044-9f4cd39d247e .column-list}
-::: {#d69e2d37-d9a0-4661-b15e-a67938da1c70 .column style="width:50%"}
-number. so in this case 1 is your best case when you are getting 1 you
-end the process.
+and the given number. so in this case 1 is your best case when you are getting 1 you end the process.
 
 This is the base case.
+<br/>
+<br/>
+
 
 Now you know a recursion function has a base case and a recursive line
-that calls itself. Let me tell you that this is the **main two parts of
+that calls itself. Let me tell you that these is the **main two parts of
 the recursion**.
 
 -   Base Case (terminates the recursion)
-
-```{=html}
-<!-- -->
-```
 -   Recursive Case
-:::
 
-::: {#f4ad0e37-6231-47d5-9b75-2f2a80c3b33f .column style="width:50%"}
-![](Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think%20db0994d7a30a49ef99a7afceb2d79379/UnastitbaseCaseled.png){style="width:533px"}
-:::
-:::
-
-``` {#e390fd70-7e19-4cd1-8e71-7b513997911f .code}
+```
 void recursion (int n)
 {
     if(n==0)
@@ -119,21 +103,16 @@ void recursion (int n)
     }
 }
 ```
+tashinparvez // comment
 
-### [Now a question occurs why do we need recursion in programming?]{.mark .highlight-gray_background} {#581de42b-205f-4b96-beda-f9e3a6d5dd05}
+### Now a question occurs why do we need recursion in programming?
 
 -   **Code Length Reduction:** Recursion helps reduce the length of code
     by breaking complex problems into simpler, recursive subproblems.
-
-```{=html}
-<!-- -->
-```
+    
 -   **Enhanced Readability:** It contributes to code readability and
     makes it easier to write and understand.
-
-```{=html}
-<!-- -->
-```
+    
 -   **Solving Recursive Structures:** It\'s essential for tasks
     involving recursive data structures like trees, graphs, and linked
     lists.
