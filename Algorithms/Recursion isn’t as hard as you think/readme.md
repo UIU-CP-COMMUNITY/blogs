@@ -28,9 +28,9 @@ int add(int a, int b) {
 
 int main() {
 
-    greet();  // Calling the greet() function without arguments
+    greet();                   // Calling the greet() function without arguments
 
-    int result = add(5, 3);   // Calling the add() function with arguments and storing the result
+    int result = add(5, 3);    // Calling the add() function with arguments and storing the result
 
     return 0;
 }
@@ -40,14 +40,14 @@ by this line " greet(); " in the main function we are calling the greet
 function which is printing Hello, World! **Is this function calling
 itself?**
 
-No.
+<b>No.</b>
 
 ### What does calling itself in a function look like?
 
-``` {#af2a1cc2-83d3-4907-86d7-396eb428a1cf .code}
+```
 void greet() {
     printf("Hello, World!\n");
-        greet();  // Calling itself
+    greet();                     // Calling itself
 }
 ```
 
@@ -60,9 +60,7 @@ main function?**
 Yes, it will continuously print Hello World and it will not stop, and in
 the end, our program will crash.
 
-So, now we know that Recursion is a recursive function because it calls
-itself. then **is the recursive function always crashes the program?**
-like the greet function above?
+So, now we know that recursion is a recursive function because it calls itself. Does the recursive function always crash the program, like the 'greet' function above?**
 
 The answer is No. Why?
 
