@@ -113,37 +113,29 @@ tashinparvez // comment
 -   **Enhanced Readability:** It contributes to code readability and
     makes it easier to write and understand.
     
--   **Solving Recursive Structures:** It\'s essential for tasks
+-   **Solving Recursive Structures:** It's essential for tasks
     involving recursive data structures like trees, graphs, and linked
     lists.
 
-[Let me give you a real-life example so that you can relate the
+Let me give you a real-life example so that you can relate the
 recursion you are using in your life without knowing that this process
-is called recursion. ]{.mark .highlight-blue_background}
+is called recursion.
 
 Suppose your math teacher gives you an assignment. and it has 10
 problems. You hardly solve one question, and you are not able to solve
-the other 9 problems. Now you asked one of your friend to solve problems
-for you. But your friend is only able to solve one and he refers your
+the other 9 problems. Now you asked one of your friends to solve problems
+for you. But your friend can only solve one and he refers your
 problems to another friend of his. He solved one and referred it to his
-friend. This is how you along with your 9 friends solved all the
-problems.
+friend. This is how you along with your 9 friends solved all the problems.
 
 Did you do this in your school or college life? I did.
 
-**[Let\'s think about this scenario from the viewpoint of
-recursion.]{.mark .highlight-brown}**
+**Let's think about this scenario from the viewpoint of recursion.**
 
-You solved one and handed over the rest to your other friend. (First
-person)
+You solved one and handed over the rest to your other friend. (First person)<br/>
+He also solved one and handed over the rest to your other friend. (Second person)<br/>
 
-::: {#cd0491aa-35fd-4929-ab18-dd89e269b588 .column-list}
-::: {#61d17f04-84f7-4798-8fc9-4a3f36b34f42 .column style="width:56.25%"}
-He also solved one and handed over the rest to your other friend.
-(Second person)
-
-He also solved one and handed over the rest to your other friend. (Third
-person)
+He also solved one and handed over the rest to your other friend. (Third person)<br/>
 
 ...
 
