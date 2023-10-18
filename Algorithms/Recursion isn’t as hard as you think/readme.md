@@ -6,8 +6,9 @@
 ![CoverPhoto](https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/Cover.png?raw=true)
 
  <img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/spider-man-pointing.jpg" alt="gras" />
-Recursion is a very used and powerful <b>functional programming</b>
-concept. What is <b>recursion</b>? It's a technique in programming <b>where a function calls itself,</b> like in front of a mirror you are calling your
+<b>Recursion</b> is a very used and powerful <b>functional programming</b>
+concept. What is <b>recursion</b>? <br/>
+It's a technique in programming <b>where a function calls itself,</b> like in front of a mirror you are calling your
 mirror view by your name. It is also called a <b>recursive function</b>.
 Why? When a function that calls itself is a recursive function.
 
@@ -57,7 +58,8 @@ line.
 
 <br/>
 <b><u>Do you know what will happen if this greet function is called from the main function?</u></b>
-<br/>
+<br/><br/>
+
 Yes, it will continuously print Hello World and it will not stop, and in the end, our program will crash.
 
 So, now we know that recursion is a recursive function because it calls itself. Does the recursive function always crash the program, like the 'greet' function above?
