@@ -38,8 +38,8 @@ int main() {
 ```
 
 by this line " greet(); " in the main function we are calling the greet
-function which is printing Hello, World! **Is this function calling
-itself?**
+function which is printing Hello, World! <br/>
+**Is this function calling itself?**
 
 <b>No.</b>
 
