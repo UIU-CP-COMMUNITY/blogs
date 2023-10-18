@@ -67,9 +67,11 @@ So, now we know that recursion is a recursive function because it calls itself. 
 The answer is **No**. Why?
 
 Because It has the **base case** which terminates the recursion function.
+<br/><br/>
 
 
 ### Now the question is what is the **base case?**
+___
 
 The "base case" in recursion is like the red-light signal on the road and you have to stop your car now. So basically, it tells you when to stop. let's clear it up with an example.
 
@@ -81,6 +83,8 @@ number you need to calculate the multiplication of all numbers between 1
 and the given number. so in this case 1 is your best case when you are getting 1 you end the process.
 
 This is the base case.
+
+---
 <br/>
 <br/>
 
