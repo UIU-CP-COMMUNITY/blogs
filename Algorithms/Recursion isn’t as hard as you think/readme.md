@@ -173,9 +173,11 @@ The 8th person sends 3 solutions to the 7th person.<br/>
 
 Sending the solution is the return value of the function in the view of recursion.*<br/><br/>
 
-### Let's solve a problem using recursion.
 
-**Problem:** Write a program using a recursive function to find the Factorial of 5.
+### Let's solve a problem using recursion.
+---
+
+**Problem: Write a program using a recursive function to find the Factorial of 5.**
 
 **Solution: First watch the given tree**
 
@@ -190,7 +192,6 @@ To get 3 factorials we need 2 factorials. [ He doesn't know the value of 2 facto
 To get 2 factorials we need 1 factorial. [ He doesn\'t know the value of 1 factorial, so he gives it to his friend ]
 
 1 factorial is 1 [ He sends the solution of 1 factorial ]
-tashinparvez // comment
 
 ```
 factorial(5) = 5 * factorial(4)
