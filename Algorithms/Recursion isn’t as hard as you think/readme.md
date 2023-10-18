@@ -162,14 +162,14 @@ using email. Imagine this.
 
 The 10th person solves the last problem and sends it to the 9th person.
 
-9th person sends the last 2 solutions to the 8th person [9th person solve one and get one solve from the 10th person]
-The 8th person sends 3 solutions to the 7th person.
-...
-...
-...
+9th person sends the last 2 solutions to the 8th person [9th person solve one and get one solve from the 10th person]<br/>
+The 8th person sends 3 solutions to the 7th person.<br/>
+...<br/>
+...<br/>
+...<br/>
 2nd person sends 9 solutions to you.
 
-**Now you have all the solutions. This process is called**
+**Now you have all the solutions. This process is called backtracking.**<br/><br/>
 
 Sending the solution is the return value of the function in the view of
 recursion.
