@@ -169,12 +169,9 @@ The 8th person sends 3 solutions to the 7th person.<br/>
 ...<br/>
 2nd person sends 9 solutions to you.
 
-**Now you have all the solutions. This process is called backtracking.**<br/><br/>
+**Now you have all the solutions. This process is called backtracking.*
 
-Sending the solution is the return value of the function in the view of
-recursion.
-<br/>
-<br/>
+Sending the solution is the return value of the function in the view of recursion.*<br/><br/>
 
 ### Let's solve a problem using recursion.
 
