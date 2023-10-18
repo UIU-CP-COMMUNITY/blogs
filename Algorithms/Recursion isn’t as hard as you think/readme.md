@@ -183,15 +183,15 @@ Sending the solution is the return value of the function in the view of recursio
 
 Let's compare this problem with the teacher-given assignment scenario.
 
-To get 5 factorials we need 4 factorials. [ You don't know the value of 4 factorials, so you give it to your friend ]
+To get 5 factorials we need 4 factorials.   &nbsp;&nbsp;&nbsp;&nbsp;[ You don't know the value of 4 factorials, so you give it to your friend ]
 
-To get 4 factorials we need 3 factorials. [ He doesn't know the value of 3 factorials, so he gives it to his friend ]
+To get 4 factorials we need 3 factorials.   &nbsp;&nbsp;&nbsp;&nbsp;[ He doesn't know the value of 3 factorials, so he gives it to his friend ]
 
-To get 3 factorials we need 2 factorials. [ He doesn't know the value of 2 factorials, so he gives it to his friend ]
+To get 3 factorials we need 2 factorials.   &nbsp;&nbsp;&nbsp;&nbsp;[ He doesn't know the value of 2 factorials, so he gives it to his friend ]
 
-To get 2 factorials we need 1 factorial. [ He doesn\'t know the value of 1 factorial, so he gives it to his friend ]
+To get 2 factorials we need 1 factorial.     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ He doesn\'t know the value of 1 factorial, so he gives it to his friend ]
 
-1 factorial is 1 [ He sends the solution of 1 factorial ]
+1 factorial is 1  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;[ He sends the solution of 1 factorial ]
 
 ```
 factorial(5) = 5 * factorial(4)
