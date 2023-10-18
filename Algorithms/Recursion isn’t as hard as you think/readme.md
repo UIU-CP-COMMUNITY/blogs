@@ -86,8 +86,6 @@ and the given number. so in this case 1 is your best case when you are getting 1
 This is the base case.
 
 ---
-<br/>
-<br/>
 <img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/Recursion.png" alt="gras" />
 
 Now you know a recursion function has a base case and a recursive line
@@ -129,9 +127,10 @@ Did you do this in your school or college life? I did.
 **Let's think about this scenario from the viewpoint of recursion.**
 
 You solved one and handed over the rest to your other friend. &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;(First person)<br/>
+<img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/PassingLeftWorks.png" alt="Pasing Problems" />
 He also solved one and handed over the rest to your other friend. &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;(Second person)<br/>
 
-<img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/PassingLeftWorks.png" alt="Pasing Problems" />
+
 
 He also solved one and handed over the rest to your other friend. &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;(Third person)<br/>
 ...<br/>
