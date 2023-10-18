@@ -111,7 +111,7 @@ void recursion (int n)
 ```
 
 ### Now a question occurs why do we need recursion in programming?
-
+---
 -   **Code Length Reduction:** Recursion helps reduce the length of code
     by breaking complex problems into simpler, recursive subproblems.
     
@@ -125,8 +125,9 @@ void recursion (int n)
 Let me give you a real-life example so that you can relate the
 recursion you are using in your life without knowing that this process
 is called recursion.
+<br/><br/>
 
-Suppose your math teacher gives you an assignment. and it has 10
+**Suppose** your math teacher gives you an assignment. and it has 10
 problems. You hardly solve one question, and you are not able to solve
 the other 9 problems. Now you asked one of your friends to solve problems
 for you. But your friend can only solve one and he refers your
@@ -134,6 +135,8 @@ problems to another friend of his. He solved one and referred it to his
 friend. This is how you along with your 9 friends solved all the problems.
 
 Did you do this in your school or college life? I did.
+
+<br/>
 
 **Let's think about this scenario from the viewpoint of recursion.**
 
