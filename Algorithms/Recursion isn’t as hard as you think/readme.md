@@ -140,16 +140,16 @@ Did you do this in your school or college life? I did.
 
 **Let's think about this scenario from the viewpoint of recursion.**
 
-You solved one and handed over the rest to your other friend. (First person)<br/>
-He also solved one and handed over the rest to your other friend. (Second person)<br/>
+You solved one and handed over the rest to your other friend. &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;(First person)<br/>
+He also solved one and handed over the rest to your other friend. &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;(Second person)<br/>
 
-He also solved one and handed over the rest to your other friend. (Third person)<br/>
-...
-...
-...
-He solved the last one. (Tenth person) [ last problem is the Base case]
+He also solved one and handed over the rest to your other friend. &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;(Third person)<br/>
+...<br/>
+...<br/>
+...<br/>
+He solved the last one. &nbsp;&nbsp;  &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; (Tenth person) [ last problem is the Base case]
 
-See in this case your all problems are solved but you didn't do all those solutions.
+See in this case your all problems are solved but you didn't do all those solutions.<br/><br/>
 
 In the recursion problem, we also do the same in one call we do
 something and recall the function and hand over the left work. This
