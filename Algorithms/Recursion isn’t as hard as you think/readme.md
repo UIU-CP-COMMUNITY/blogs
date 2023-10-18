@@ -127,7 +127,7 @@ Did you do this in your school or college life? I did.
 **Let's think about this scenario from the viewpoint of recursion.**
 
 You solved one and handed over the rest to your other friend. &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;(First person)<br/>
-<img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/PassingLeftWorks.png" alt="Pasing Problems" />
+<img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/PassingLeftWorks.png" alt="Passing Problems" />
 He also solved one and handed over the rest to your other friend. &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;(Second person)<br/>
 
 
@@ -149,7 +149,7 @@ We are not done yet. Let's say you send your problems to your friends
 using email. then obviously your friend also sends you the solution by
 using email. Imagine this.
 
-<img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/Backtracking.png" alt="Pasing Problems" />
+<img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/Backtracking.png" alt="backtracking" />
 
 The 10th person solves the last problem and sends it to the 9th person.
 
@@ -171,6 +171,8 @@ Sending the solution is the return value of the function in the view of recursio
 **Problem: Write a program using a recursive function to find the Factorial of 5.**
 
 **Solution: First watch the given tree**
+<br/><br/>
+ <img align="center" width="60%" height="60%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/Factorialof5.png" alt="Factorial of 5" />
 
 Let's compare this problem with the teacher-given assignment scenario.
 
