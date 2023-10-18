@@ -103,7 +103,6 @@ void recursion (int n)
     }
 }
 ```
-tashinparvez // comment
 
 ### Now a question occurs why do we need recursion in programming?
 
@@ -136,94 +135,64 @@ You solved one and handed over the rest to your other friend. (First person)<br/
 He also solved one and handed over the rest to your other friend. (Second person)<br/>
 
 He also solved one and handed over the rest to your other friend. (Third person)<br/>
-
 ...
-
 ...
-
 ...
+He solved the last one. (Tenth person) [ last problem is the Base case]
 
-He solved the last one. (Tenth person) \[ the last problem is the Base
-case\]
-
-See in this case your all problems are solved but you didn\'t do all
-those solutions.
-:::
-
-::: {#c343c60c-b673-4653-ac90-b42cdc4e3faa .column style="width:43.75000000000001%"}
-![](Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think%20db0994d7a30a49ef99a7afceb2d79379/Square__Untitled.png){style="width:849px"}
-:::
-:::
+See in this case your all problems are solved but you didn't do all those solutions.
 
 In the recursion problem, we also do the same in one call we do
 something and recall the function and hand over the left work. This
-continues until we don\'t get the base case. In the above scenario, the
+continues until we don't get the base case. In the above scenario, the
 last problem was our best case.
 
-We are not done yet. Let\'s say you send your problems to your friends
+We are not done yet. Let's say you send your problems to your friends
 using email. then obviously your friend also sends you the solution by
 using email. Imagine this.
 
 The 10th person solves the last problem and sends it to the 9th person.
 
-9th person sends the last 2 solutions to the 8th person \[9th person
-solve one and get one solve from 10th person\]
-
-::: {#71769b2b-238e-44eb-a906-8934729b5379 .column-list}
-::: {#a5bcd303-e760-4221-aff4-41c62b88d6ae .column style="width:50%"}
+9th person sends the last 2 solutions to the 8th person [9th person solve one and get one solve from the 10th person]
 The 8th person sends 3 solutions to the 7th person.
-
 ...
-
 ...
-
 ...
-
 2nd person sends 9 solutions to you.
 
 **Now you have all the solutions. This process is called**
-**[backtracking]{style="border-bottom:0.05em solid"}.**
 
 Sending the solution is the return value of the function in the view of
 recursion.
-:::
+<br/>
+<br/>
 
-::: {#4691970f-de27-4690-abb9-a087a033caea .column style="width:49.99999999999999%"}
-![](Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think%20db0994d7a30a49ef99a7afceb2d79379/back__Untitled.png){style="width:820px"}
-:::
-:::
+### Let's solve a problem using recursion.
 
-Let\'s solve a problem using recursion.
-
-**Problem:** Write a program using a recursive function to find the
-Factorial of 5.
+**Problem:** Write a program using a recursive function to find the Factorial of 5.
 
 **Solution: First watch the given tree**
 
-![](Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think%20db0994d7a30a49ef99a7afceb2d79379/3181d.png){style="width:576px"}
+Let's compare this problem with the teacher-given assignment scenario.
 
-Let\'s compare this problem with the teacher-given assignment scenario.
+To get 5 factorials we need 4 factorials. [ You don't know the value of 4 factorials, so you give it to your friend ]
 
-To get 5 factorials we need 4 factorials. \[ You don\'t know the value
-of 4 factorials, so you give it to your friend \]
+To get 4 factorials we need 3 factorials. [ He doesn't know the value of 3 factorials, so he gives it to his friend ]
 
-To get 4 factorials we need 3 factorials. \[ He doesn\'t know the value
-of 3 factorials, so he gives it to his friend \]
+To get 3 factorials we need 2 factorials. [ He doesn't know the value of 2 factorials, so he gives it to his friend ]
 
-To get 3 factorials we need 2 factorials. \[ He doesn\'t know the value
-of 2 factorials, so he gives it to his friend \]
+To get 2 factorials we need 1 factorial. [ He doesn\'t know the value of 1 factorial, so he gives it to his friend ]
 
-To get 2 factorials we need 1 factorial. \[ He doesn\'t know the value
-of 1 factorial, so he gives it to his friend \]
+1 factorial is 1 [ He sends the solution of 1 factorial ]
+tashinparvez // comment
 
-1 factorial is 1 \[ He sends the solution of 1 factorial \]
-
-``` {#bd8fa272-3d1e-4e38-9585-be6c8c26163b .code}
+```
 factorial(5) = 5 * factorial(4)
               = 5 * (4 * factorial(3))
               = 5 * (4 * (3 * factorial(2)))
               = 5 * (4 * (3 * (2 * factorial(1))))
               = 5 * (4 * (3 * (2 * 1)))    // Base case is reached here
+
               = 5 * 4 * 3 * 2 * 1
               = 120
 ```
@@ -235,9 +204,7 @@ solutions.
 
 Code:
 
-::: {#d333b6c0-d415-40bf-b6e4-47d167e394ca .column-list}
-::: {#fd3914b9-2983-4c20-a1f5-e2e9ae41fe9a .column style="width:50%"}
-``` {#5688f199-e2e7-4b18-b719-1f27df2351dd .code}
+```
 #include <stdio.h>
 
 int factorial(int i) {
@@ -257,15 +224,10 @@ int  main() {
    return 0;
 }
 ```
-:::
 
-::: {#d17991b6-3f8f-45f1-9615-699485518358 .column style="width:50%"}
-:::
-:::
+<br/>
+<br/>
 
-I hope this article helps you to get an overview of* **Recursion***.
-
-Thanks for your time,
-
--Tashin Parvez
-:::
+I hope this article helps you to get an overview of **Recursion**.<br/>
+Thanks for your time.
+<p>- Tashin Parvez</p>
