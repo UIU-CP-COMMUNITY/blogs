@@ -143,6 +143,8 @@ Did you do this in your school or college life? I did.
 You solved one and handed over the rest to your other friend. &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;(First person)<br/>
 He also solved one and handed over the rest to your other friend. &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;(Second person)<br/>
 
+<img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/PassingLeftWorks.png" alt="Pasing Problems" />
+
 He also solved one and handed over the rest to your other friend. &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;(Third person)<br/>
 ...<br/>
 ...<br/>
