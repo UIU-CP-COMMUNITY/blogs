@@ -77,6 +77,7 @@ The "base case" in recursion is like the red-light signal on the road and you ha
 
 If I told you to calculate 4 factorials. What will you do?
 
+
 You will calculate 4 into 3 into 2 into 1. then you will stop. why do
 you stop? Because you know that while calculating the factorial of a
 number you need to calculate the multiplication of all numbers between 1
@@ -87,7 +88,7 @@ This is the base case.
 ---
 <br/>
 <br/>
-
+<img align="right" width="25%" height="25%" src="https://github.com/TashinParvez/My-Blogs-In-UIU-CP-COMMUNITY/blob/Tashin_Parvez_011221437/Algorithms/Recursion%20isn%E2%80%99t%20as%20hard%20as%20you%20think/ImageFile/Recursion.png" alt="gras" />
 
 Now you know a recursion function has a base case and a recursive line
 that calls itself. Let me tell you that these is the **main two parts of
@@ -96,19 +97,6 @@ the recursion**.
 -   Base Case (terminates the recursion)
 -   Recursive Case
 
-```
-void recursion (int n)
-{
-    if(n==0)
-    {
-        return;
-    }
-    else{
-        print("%d\n", n);
-        recursion(n-1);
-    }
-}
-```
 
 ### Now a question occurs why do we need recursion in programming?
 ---
